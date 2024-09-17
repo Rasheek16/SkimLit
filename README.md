@@ -59,17 +59,6 @@ Skimlit is a sequential sentence classification project aimed at analyzing and c
 5. **Run Analysis:**
    Review metrics and model results outlined in `notebook.ipynb`.
 
-## Folder Structure
-
-```plaintext
-├───skimlit_tribrid_model_200k
-│   ├───assets
-│   └───variables
-├───skimlit_tribrid_model_20k
-│   ├───assets
-│   └───variables
-└───__pycache__
-```
 
 ## Contributing
 
